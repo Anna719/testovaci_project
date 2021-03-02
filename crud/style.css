@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500&display=swap');
+
+
+h1{
+    font-family: 'Quicksand', sans-serif!important;
+    font-weight: 300;
+}
+
+
+
+
+
+.height{
+    height: 40px!important;
+}
+
+.d-flex button{
+    margin:1.5em 0.6em;
+    padding: 0.5em 2.4em;
+}
+
+.d-flex table {
+    margin: 1em 10em;
+}
+
+table .btnedit{
+    color:lightsalmon;
+    cursor: pointer;
+}
+
+.success{
+    background-color: lightgreen!important;
+    padding: 1em;
+}
+
+.error{
+    padding: 1em;
+    background-color: tomato!important;
+}
+
